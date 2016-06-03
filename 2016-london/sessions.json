@@ -3,7 +3,7 @@
         {
             "category": "", 
             "day": "Monday", 
-            "description": "test test 123 test test 123 test test 123 test test 123 test test 123 test test 123 test test 123 test test 123 ", 
+            "description": "yay omg test test 123 test test 123 test test 123 test test 123 test test 123 test test 123 test test 123 test test 123", 
             "facilitator_array": [
                 "Mavis, Mozilla Foundation, @ohmmmavis", 
                 "Mavis, @ohmmmavis", 
@@ -12,7 +12,7 @@
             "facilitators": "Mavis, Mavis, Mavis", 
             "id": "101", 
             "location": "Room TBD #1", 
-            "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-welcomereception", 
+            "notes url": "", 
             "start": "06:00 PM", 
             "tags": "", 
             "timeblock": "monday-welcome-reception--monday-18-00-", 
